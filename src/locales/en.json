@@ -1,0 +1,14 @@
+{
+  "ProfileTitle": "Profile",
+  "Name": "Name",
+  "Message_EnterName": "Enter Name",
+  "Update": "Update",
+  "Menu_Bill": "Bill",
+  "Menu_History": "History",
+  "Menu_Planning": "Planning",
+  "Menu_NewRecord": "New Record",
+  "Menu_Category": "Category",
+  "MainPage": "Main Page",
+  "LoginPage": "Login Page",
+  "RegisterPage": "Register Page"
+}
